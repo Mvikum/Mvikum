@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikum Dharmasinghe</h1>
-<h3 align="center">I am interested in finding out how software works from scratch.</h3>
+<h3 align="center">I am interested in finding out how software works from scratch. 🛠️</h3>
 <br><br>
 -🌱 I’m currently learning backend development.<br>
 -🎓 A BSc undergraduate at Dept. of Computing, Faculty of Applied Sciences, Rajarata University of Sri Lanka.<br>
