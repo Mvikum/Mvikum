@@ -3,7 +3,7 @@
 <br><br>
 -🌱 I’m currently learning backend development.<br>
 -🎓 A BSc undergraduate at Dept. of Computing, Faculty of Applied Sciences, Rajarata University of Sri Lanka.<br>
-- 👨‍💻 You can explore all of my work on [https://vikumdharmasinghe.netlify.app/](https://vikumdharmasinghe.netlify.app/)<br>
+- 👨‍💻 You can explore all of my work on [https://vikumdharmasinghe.netlify.app/]<br>
 - 👨‍💻 Check out my complete collection of projects on https://github.com/Mvikum?tab=repositories<br>
 
 <h3 align="left">Connect with me:</h3>
